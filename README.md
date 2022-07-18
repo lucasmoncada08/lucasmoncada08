@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there, I am Lucas Moncada! 👋
 
-<!--
-**lucasmoncada08/lucasmoncada08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a curious and passionate individual currently looking for a software engineering full-time role.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+lucas = {
+  fav_langs: ["Python", "JavaScript", "SQL"],
+  technologies: {
+    backend: {"Node.js", "Express.js"},
+    frontend: {"React.js", "Next.js", "TailwindCSS"},
+    databases: {"SQL, BigQuery, MongoDB"},
+    machine_learning: {"PyTorch, FastAI, Sklearn, NumPy"},
+  },
+  current_focus: "Building great web apps using JS, React.js, and Next.js",
+}
+```
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd be happy to meet you!</b> 😊</em>
