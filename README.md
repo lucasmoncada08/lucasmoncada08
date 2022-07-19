@@ -1,6 +1,6 @@
 ### Hey there, I am Lucas Moncada! 👋
 
-I am a curious and passionate individual currently looking for a software engineering full-time role.
+I am a curious and passionate individual currently looking for a full-time software engineering role.
 
 ```python
 lucas = {
